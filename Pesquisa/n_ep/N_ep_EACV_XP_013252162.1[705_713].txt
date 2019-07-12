@@ -1,0 +1,10 @@
+	Aminoácido	Bepipred	PI	Superfície	Antigenicidade	Hidrofobicidade	Polaridade
+Posição_0	L	0.243	6.04	0.4	1.25	-9.2	A
+Posição_1	Y	-0.098	5.63	0.76	1.161	-1.9	PN
+Posição_2	I	-0.528	6.04	0.34	1.152	-8.0	A
+Posição_3	K	-0.805	9.47	0.97	0.93	5.7	P
+Posição_4	D	-0.944	2.98	0.81	0.866	10.0	N
+Posição_5	V	-0.784	6.02	0.36	1.383	-3.7	A
+Posição_6	F	-0.432	5.91	0.42	1.091	-9.2	A
+Posição_7	S	-0.007	5.68	0.65	1.012	6.5	PN
+Posição_8	K	0.190	9.47	0.97	0.93	5.7	P
