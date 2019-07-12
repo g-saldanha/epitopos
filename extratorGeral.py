@@ -45,6 +45,7 @@ for name in files2:
                     removeBreakline = replace.replace('\n', '')
                     vddDoBom = str(identificador)+','+removeBreakline+',ruim'+'\r'
                     listoflists.append(vddDoBom)
+        identificador = identificador + 1
     except IOError as exc:
         if exc.errno != errno.EISDIR:
             raise
