@@ -1,0 +1,40 @@
+Without Bepipred & Amino acids | MoveletsFound=11596, candidates=728496, MoveletsDiscoveryTime=1535788, MoveletsAfterPruning=11596
+Processing time: 1,211178333 hours
+
+Class: bom
+[pi]=2805
+[polaridade]=2490
+[pi, hidrofobicidade, polaridade]=2123
+[hidrofobicidade, polaridade]=1776
+[hidrofobicidade]=518
+[superficie]=516
+[pi, antigenicidade, polaridade]=311
+[pi, hidrofobicidade]=267
+[antigenicidade, hidrofobicidade, polaridade]=110
+
+
+Class: Ruim
+[polaridade]=4093
+[superficie]=2462
+[superficie, antigenicidade, hidrofobicidade, polaridade]=1604
+[superficie, antigenicidade, polaridade]=1418
+[pi, superficie, antigenicidade, hidrofobicidade, polaridade]=680
+[antigenicidade, polaridade]=294
+[antigenicidade, hidrofobicidade, polaridade]=233
+[pi]=196
+[pi, superficie, hidrofobicidade, polaridade]=187
+[pi, antigenicidade, hidrofobicidade, polaridade]=153
+[hidrofobicidade, polaridade]=107
+[superficie, polaridade]=89
+[pi, antigenicidade, polaridade]=60
+[pi, superficie, antigenicidade, polaridade]=11
+[pi, polaridade]=4
+[pi, superficie, polaridade]=3
+[superficie, hidrofobicidade, polaridade]=2
+
+
+Number of attributes: 22513
+Using TensorFlow backend.
+('Dropout: ', 0.5, '. Batch: ', 200, '. Epoch: ', 200, '. Learning Rate: ', 0.00095)
+('My Results - RF:', ['Trees:', 100, 'ACC:', 0.944, 'ACC5:', 1, 'F1:', 0.9439932231800048])
+('Time spent:', 273506)

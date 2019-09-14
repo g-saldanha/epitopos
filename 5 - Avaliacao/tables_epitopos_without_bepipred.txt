@@ -1,0 +1,35 @@
+Without Bepipred | MoveletsFound=1142aminoacido, candidates=72836aminoacido, MoveletsDiscoveryTime=2532545, MoveletsAfterPruning=11420 Processing time: 2,526279722 hours
+Class: bom
+[aminoacido]=2809
+[polaridade]=2491
+[pi, hidrofobicidade, polaridade]=2084
+[hidrofobicidade, polaridade]=1827
+[hidrofobicidade]=522
+[superficie]=513
+[pi, antigenicidade, polaridade]=314
+[pi, hidrofobicidade]=267
+[antigenicidade, hidrofobicidade, polaridade]=110
+
+
+
+Class: ruim 
+attributes,movelets
+[polaridade]=4097
+[aminoacido]=2140
+[superficie, antigenicidade, hidrofobicidade, polaridade]=1622
+[superficie, antigenicidade, polaridade]=1425
+[pi, superficie, antigenicidade, hidrofobicidade, polaridade]=638
+[antigenicidade, polaridade]=301
+[antigenicidade, hidrofobicidade, polaridade]=209
+[pi, superficie, hidrofobicidade, polaridade]=196
+[pi]=188
+[pi, antigenicidade, hidrofobicidade, polaridade]=165
+[aminoacido, pi, superficie, polaridade]=150
+[hidrofobicidade, polaridade]=115
+[superficie, polaridade]=92 
+[pi, antigenicidade, polaridade]=52
+[aminoacido, pi, superficie, hidrofobicidade, polaridade]=12
+[pi, superficie, polaridade]=6
+[pi, superficie, antigenicidade, polaridade]=5
+[superficie, hidrofobicidade, polaridade]=4
+[pi, polaridade]=3

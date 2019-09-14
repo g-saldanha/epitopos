@@ -1,0 +1,32 @@
+Full attributes | MoveletsFound=8468, candidates=728496, MoveletsDiscoveryTime=10281347, MoveletsAfterPruning=8468 Processing time: 5,86807 hours
+Class: bom
+[bepipred]=7798
+[hidrofobicidade, polaridade]=6
+[polaridade]=5
+[pi, hidrofobicidade, polaridade]=5
+[bepipred, pi, superficie, antigenicidade, hidrofobicidade]=3
+[pi, hidrofobicidade]=2
+[hidrofobicidade]=1
+[bepipred, pi, superficie, antigenicidade, hidrofobicidade, polaridade]=1
+[pi, antigenicidade, polaridade]=1
+[bepipred, pi, superficie, antigenicidade, polaridade]=1
+[antigenicidade, hidrofobicidade, polaridade]=1
+
+
+Class: ruim
+[bepipred]=8309
+[polaridade]=54
+[bepipred, pi, polaridade]=25
+[aminoacido, bepipred, superficie, antigenicidade, hidrofobicidade, polaridade]=15
+[bepipred, pi, antigenicidade, polaridade]=12
+[bepipred, pi, superficie, antigenicidade, polaridade]=10
+[bepipred, polaridade]=9
+[bepipred, hidrofobicidade, polaridade]=6
+[pi]=5
+[superficie, antigenicidade, hidrofobicidade, polaridade]=5
+[antigenicidade, hidrofobicidade, polaridade]=4
+[bepipred, pi, antigenicidade, hidrofobicidade, polaridade]=4
+[bepipred, pi, superficie, polaridade]=3
+[bepipred, superficie, antigenicidade, polaridade]=3
+[bepipred, antigenicidade, polaridade]=2
+[hidrofobicidade, polaridade]=2

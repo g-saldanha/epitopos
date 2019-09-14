@@ -12,3 +12,4 @@ Data Mining).
 5) **Avaliação**: Interpretar e avaliar os resultados em relação aos objetivos do usuário 
 6) **Disponibilização**: Planejar disponibilização, Planejar monitoramento e manutenção, Produzir relatório final , Revisar o projeto
 
+![](crisp_dm.png)

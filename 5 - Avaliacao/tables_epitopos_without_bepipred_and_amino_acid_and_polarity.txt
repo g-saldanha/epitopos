@@ -1,0 +1,21 @@
+without bepipred & amino acid & polarity | MoveletsFound=12638, candidates=728496, MoveletsDiscoveryTime=966685, MoveletsAfterPruning=12638
+Processing time: 0,8584586111 hours
+
+Class: bom
+[pi]=6479
+[hidrofobicidade]=1753
+[superficie]=1207
+[pi, antigenicidade, hidrofobicidade]=1135
+[pi, hidrofobicidade]=271
+
+Class: ruim
+[superficie]=5190
+[pi]=4341
+[hidrofobicidade]=2253
+[superficie, hidrofobicidade]=854
+
+Number of attributes: 23484
+Using TensorFlow backend.
+('Dropout: ', 0.5, '. Batch: ', 200, '. Epoch: ', 200, '. Learning Rate: ', 0.00095)
+('My Results - RF:', ['Trees:', 100, 'ACC:', 0.864, 'ACC5:', 1, 'F1:', 0.8639912954429083])
+('Time spent:', 286469)
