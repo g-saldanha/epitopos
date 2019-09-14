@@ -1,0 +1,92 @@
+{
+  "readsDesc": [
+    {
+      "order": 1,
+      "type": "nominal",
+      "text": "position"
+    },
+    {
+      "order": 2,
+      "type": "nominal",
+      "text": "aminoacido"
+    },
+    {
+      "order": 3,
+      "type": "numeric",
+      "text": "bepipred"
+    },
+    {
+      "order": 4,
+      "type": "numeric",
+      "text": "pi"
+    },
+    {
+      "order": 5,
+      "type": "numeric",
+      "text": "superficie"
+    },
+    {
+      "order": 6,
+      "type": "numeric",
+      "text": "antigenicidade"
+    },
+    {
+      "order": 7,
+      "type": "numeric",
+      "text": "hidrofobicidade"
+    },
+    {
+      "order": 8,
+      "type": "nominal",
+      "text": "polaridade"
+    }
+  ],
+  "pointFeaturesDesc": [
+  ],
+  "subtrajectoryFeaturesDesc": [
+  ],
+  "trajectoryFeaturesDesc": [
+  ],
+  "pointComparisonDesc": {
+    "pointDistance": "euclidean",
+    "featureComparisonDesc": [
+      {
+        "distance": "equals",
+        "text": "aminoacido"
+      },
+      {
+        "distance": "difference",
+        "maxValue": -1,
+        "text": "pi"
+      },
+      {
+        "distance": "difference",
+        "maxValue": -1,
+        "text": "superficie"
+      },
+      {
+        "distance": "difference",
+        "maxValue": -1,
+        "text": "antigenicidade"
+      },
+      {
+        "distance": "difference",
+        "maxValue": -1,
+        "text": "hidrofobicidade"
+      },
+      {
+        "distance": "equals",
+        "text": "polaridade"
+      }
+    ]
+  },
+  "subtrajectoryComparisonDesc": {
+    "subtrajectoryDistance": "euclidean",
+    "featureComparisonDesc": [
+      {
+        "distance": "euclidean",
+        "text": "points"
+      }
+    ]
+  }
+}
